@@ -1,0 +1,27 @@
+/* Gradient Background */
+.app-container {
+  background: linear-gradient(to right, #4facfe, #00f2fe);
+  min-height: 100vh;
+  color: #fff;
+  padding: 20px;
+}
+
+/* Start Page */
+.start-page h1 {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+
+/* Card */
+.card {
+  background: #ffffff;
+  border-radius: 15px;
+  color: #000;
+}
+
+
+
