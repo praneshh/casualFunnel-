@@ -48,7 +48,7 @@ function App() {
     <div className="app-container">
       {!isQuizActive && !isQuizFinished && (
         <div className="start-page text-center">
-          <h1 className="mb-4">Welcome to the Quiz</h1>
+          <h1 className="mb-4">Welcome to CasualFunnel Quiz</h1>
           <input
             type="email"
             className="form-control w-50 mx-auto mb-3"
