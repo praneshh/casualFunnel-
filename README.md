@@ -27,7 +27,7 @@ This is a **Quiz Application** built with **React**. The application allows user
 2. **Question Buttons**: Rendered as buttons that allow users to navigate directly to a specific question.
 3. **Question Display**: Shows the current question, options, and allows users to select an answer.
 
-## Setup / Installation Instructions
+## Setup 
 
 1. **Clone the repository**:
     ```bash
